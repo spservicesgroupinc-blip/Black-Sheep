@@ -26,7 +26,7 @@ export default function Hero() {
         </motion.div>
         <div className="w-full md:w-1/2 h-[300px] md:h-[500px] rounded-tr-[60px] md:rounded-tr-[120px] rounded-bl-[60px] md:rounded-bl-[120px] overflow-hidden shadow-2xl relative">
           <img 
-            src="https://images.unsplash.com/photo-1549421263-503a95dc4450?q=80&w=800&auto=format&fit=crop" 
+            src="https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=1200&auto=format&fit=crop" 
             alt="Curated thrift finds" 
             className="w-full h-full object-cover"
           />

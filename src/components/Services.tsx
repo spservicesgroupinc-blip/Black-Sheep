@@ -1,7 +1,7 @@
 const services = [
-  { title: "Clothing & Fashion", image: "https://images.unsplash.com/photo-1529139574466-a303027c1d8d?q=80&w=600&auto=format&fit=crop" },
-  { title: "Furniture & Home Decor", image: "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?q=80&w=600&auto=format&fit=crop" },
-  { title: "Vintage & Collectibles", image: "https://images.unsplash.com/photo-1605335191316-24e6de7343e0?q=80&w=600&auto=format&fit=crop" },
+  { title: "Clothing & Fashion", image: "https://images.unsplash.com/photo-1489987707023-afc8511ac61a?q=80&w=800&auto=format&fit=crop" },
+  { title: "Furniture & Home Decor", image: "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=800&auto=format&fit=crop" },
+  { title: "Vintage & Collectibles", image: "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?q=80&w=800&auto=format&fit=crop" },
 ];
 
 export default function Services() {
